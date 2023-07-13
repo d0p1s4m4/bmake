@@ -1,0 +1,10 @@
+*.o
+/bmake
+/config.*
+makefile
+/Makefile.config
+/make-bootstrap.sh
+/unit-tests/Makefile.config
+\#*
+*~
+
